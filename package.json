@@ -1,0 +1,17 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "test parcel-boirplate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "author": "Emmanuel",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
